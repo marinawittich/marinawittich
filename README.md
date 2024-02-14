@@ -1,7 +1,8 @@
 
 
 <h1>Hi there! I'm Marina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
-<h3>Frontend Developer from Denver, CO</h3>
+<h3>Software Development Engineer in Test![image](https://github.com/marinawittich/marinawittich/assets/111949737/3f5707a3-943d-45de-b53e-697c7ef842d0)
+ from Denver, CO</h3>
 
 <img src="https://user-images.githubusercontent.com/94207798/165857430-8c374d84-e56a-4a89-9966-edb03cb62c6a.png" alt="github" height="80" style="max-width: 100%;">
 
